@@ -1,8 +1,5 @@
-
-
-
-
-
+Overview Question:
+The overall goal of our project is to analyze how individual player performance metrics translate into overall team success in the NBA. By integrating multiple basketball data sources, we aim to identify which statistical indicators—such as shooting efficiency, assists, rebounds, turnovers, and usage rate—most strongly correlate with team win percentage. Beyond correlation, we seek to develop predictive models capable of estimating a team’s likelihood of winning a game based on both player-level and team-level statistics.
 
 Research Questions: 
 1.) Which player performance metrics (field goal percentage, assists, rebounds, turnovers, plus/minus) correlate the most with team success (win percentage)? 
